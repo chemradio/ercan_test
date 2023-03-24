@@ -1,4 +1,6 @@
 # edit edeceksin
+# Ercan, Harikasin :)
+
 BOT_TOKEN = "5677588593:AAHknddeAseSjiIh_zwu1Qg7kjbgZz4j8CE"
 UPWORK_URL = "https://www.upwork.com/nx/jobs/search/?q=video%20editing&sort=recency"  # "https://www.upwork.com/nx/jobs/search/?q=webflow&sort=recency"
 TELEGRAM_RECEPIENTS = [
