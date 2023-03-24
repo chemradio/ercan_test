@@ -1,0 +1,5 @@
+venv/
+eski/
+sent_ads.txt
+.DS_Store
+__pycache__/
